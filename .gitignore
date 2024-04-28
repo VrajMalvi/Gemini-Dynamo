@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# key for gemini
+key.env
+
 # Distribution / packaging
 .Python
 build/
